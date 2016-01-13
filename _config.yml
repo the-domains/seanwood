@@ -1,6 +1,6 @@
 name: seanwood
 favicon: null
-layout_spectrum: 0.1315449089743197
+layout_spectrum: 0.23729
 typography_spectrum: 0.4957797098904848
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.30246009957045317
+  brandStrength: 0.25
   lightness: 0.9846438656095415
   saturation: 0.30871148966252804
   rhythmicContrast: 0.1598976063542068
